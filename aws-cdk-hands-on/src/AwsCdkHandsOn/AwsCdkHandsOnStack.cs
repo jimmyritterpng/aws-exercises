@@ -16,7 +16,7 @@ namespace AwsCdkHandsOn
 					new CorsRule
 					{
 						AllowedMethods = new[] { HttpMethods.GET },
-						AllowedOrigins = new[] { "https://www.playngo.com" },
+						AllowedOrigins = new[] { "my_random_website" },
 						AllowedHeaders = new[] { "*" }
 					}
 				}

@@ -1,5 +1,5 @@
 {
-  "app": "dotnet run --project src/Exercises/Exercises.csproj",
+  "app": "dotnet run --project src/AwsCdkHandsOn/AwsCdkHandsOn.csproj",
   "watch": {
     "include": [
       "**"
